@@ -1,0 +1,20 @@
+﻿  ex4_2.c
+C:\AlgorithmB\Project\ch04_2\ch04_2\LinkedList.h(14,6): warning C4028: 정식 매개 변수 1이(가) 선언과 다릅니다.
+  (소스 파일 'ex4_2.c'을(를) 컴파일하는 중)
+  
+C:\AlgorithmB\Project\ch04_2\ch04_2\LinkedList.h(14,6): error C2371: 'remove': 재정의. 기본 형식이 다릅니다.
+  (소스 파일 'ex4_2.c'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\stdio.h(369,26):
+      'remove' 선언을 참조하십시오.
+  
+  LinkedList.c
+C:\AlgorithmB\Project\ch04_2\ch04_2\LinkedList.h(14,6): warning C4028: 정식 매개 변수 1이(가) 선언과 다릅니다.
+  (소스 파일 'LinkedList.c'을(를) 컴파일하는 중)
+  
+C:\AlgorithmB\Project\ch04_2\ch04_2\LinkedList.h(14,6): error C2371: 'remove': 재정의. 기본 형식이 다릅니다.
+  (소스 파일 'LinkedList.c'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\stdio.h(369,26):
+      'remove' 선언을 참조하십시오.
+  
+C:\AlgorithmB\Project\ch04_2\ch04_2\LinkedList.c(8,6): error C2491: 'remove': dllimport 함수을(를) 정의할 수 없습니다.
+  코드를 생성하고 있습니다...
