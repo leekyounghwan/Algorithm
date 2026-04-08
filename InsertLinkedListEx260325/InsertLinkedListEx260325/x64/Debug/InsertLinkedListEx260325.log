@@ -1,0 +1,7 @@
+﻿  insertLinkedList.c
+D:\강의관련\2026년 1학기\신구대\알고리즘 이해\수업준비 관련\InsertLinkedListEx260325\InsertLinkedListEx260325\insertLinkedList.c(41,45): warning C4028: 정식 매개 변수 2이(가) 선언과 다릅니다.
+D:\강의관련\2026년 1학기\신구대\알고리즘 이해\수업준비 관련\InsertLinkedListEx260325\InsertLinkedListEx260325\insertLinkedList.c(51,23): warning C4028: 정식 매개 변수 3이(가) 선언과 다릅니다.
+D:\강의관련\2026년 1학기\신구대\알고리즘 이해\수업준비 관련\InsertLinkedListEx260325\InsertLinkedListEx260325\insertLinkedList.c(70,44): warning C4028: 정식 매개 변수 2이(가) 선언과 다릅니다.
+  insertLinkedListMain.c
+  코드를 생성하고 있습니다...
+  InsertLinkedListEx260325.vcxproj -> D:\강의관련\2026년 1학기\신구대\알고리즘 이해\수업준비 관련\InsertLinkedListEx260325\x64\Debug\InsertLinkedListEx260325.exe

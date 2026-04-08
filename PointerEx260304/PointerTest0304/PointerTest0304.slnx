@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="PointerTest0304/PointerTest0304.vcxproj" Id="078a0773-6a85-4485-971c-89028e7110bb" />
+  <Project Path="SequentialList0311/SequentialList0311.vcxproj" Id="0770507b-3f49-4c94-9dc8-3939c267a6b3" />
+</Solution>

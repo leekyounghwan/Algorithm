@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\AlgorithmB\\Project\\PointerEx260304\\PointerTest0304\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0770507B-3F49-4C94-9DC8-3939C267A6B3}|SequentialList0311\\SequentialList0311.vcxproj|C:\\AlgorithmB\\Project\\PointerEx260304\\PointerTest0304\\SequentialList0311\\sequentiallist.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0770507B-3F49-4C94-9DC8-3939C267A6B3}|SequentialList0311\\SequentialList0311.vcxproj|solutionrelative:SequentialList0311\\sequentiallist.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{078A0773-6A85-4485-971C-89028E7110BB}|PointerTest0304\\PointerTest0304.vcxproj|C:\\AlgorithmB\\Project\\PointerEx260304\\PointerTest0304\\PointerTest0304\\pointerEx0304.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{078A0773-6A85-4485-971C-89028E7110BB}|PointerTest0304\\PointerTest0304.vcxproj|solutionrelative:PointerTest0304\\pointerEx0304.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "sequentiallist.c",
+              "DocumentMoniker": "C:\\AlgorithmB\\Project\\PointerEx260304\\PointerTest0304\\SequentialList0311\\sequentiallist.c",
+              "RelativeDocumentMoniker": "SequentialList0311\\sequentiallist.c",
+              "ToolTip": "C:\\AlgorithmB\\Project\\PointerEx260304\\PointerTest0304\\SequentialList0311\\sequentiallist.c",
+              "RelativeToolTip": "SequentialList0311\\sequentiallist.c",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-11T06:46:03.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "pointerEx0304.c",
+              "DocumentMoniker": "C:\\AlgorithmB\\Project\\PointerEx260304\\PointerTest0304\\PointerTest0304\\pointerEx0304.c",
+              "RelativeDocumentMoniker": "PointerTest0304\\pointerEx0304.c",
+              "ToolTip": "C:\\AlgorithmB\\Project\\PointerEx260304\\PointerTest0304\\PointerTest0304\\pointerEx0304.c",
+              "RelativeToolTip": "PointerTest0304\\pointerEx0304.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-04T05:24:03.425Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
